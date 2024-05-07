@@ -50,3 +50,6 @@ The Crypt supports the decryption of text from the image using the same stegano 
 
 ### 5. Hash text from a file
 The Crypt supports hashing of text from a file using pathlib and hashlib. This has only been tested for txt files.
+
+
+Please credit or maybe tag me if you use this program
